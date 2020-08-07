@@ -1,0 +1,13 @@
+{
+  "appId": "com.company.zelda",
+  "appName": "Zelda",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
